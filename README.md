@@ -10,6 +10,8 @@ Certificação da metodologia ágil SCRUM.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otavioalbe&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otavioalbe)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que uso
 <div styLe = "display: inline_block"><br/>
     <img align = "center" alt= "html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
