@@ -1,7 +1,7 @@
 ## Olá, sou Otávio Albuquerque!
 ###  Estudante do 4° Semestre de Sistemas de Informação na PUCRS.
-Experiência com linguagem de programação Java, Python, GO;
-</br>Experiência com banco de dados, SQL;
+Experiência com linguagem de programação Java, Python, GO, HTML, CSS;
+</br>Experiência com banco de dados MySQL, MongoDB;
 </br>
 Certificação da metodologia ágil SCRUM.
 
