@@ -1,7 +1,7 @@
 ## Olá, sou Otávio Albuquerque!
 ###  Estudante do 4° Semestre de Sistemas de Informação na PUCRS.
-Experiência com linguagem de programação Java, Python, GO, HTML, CSS;
-</br>Experiência com banco de dados MySQL, MongoDB;
+Experiência com linguagem de programação Java, Python, GO, JavaScript, HTML5, CSS3;
+</br>Experiência com banco de dados MySQL, MongoDB e frameworks SpringBoot, React;
 </br>
 Certificação da metodologia ágil SCRUM.
 
@@ -13,8 +13,15 @@ Certificação da metodologia ágil SCRUM.
 ## Tecnologias que uso
 <div styLe = "display: inline_block"><br/>
     <img align = "center" alt= "html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img align = "center" alt= "html5" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img align = "center" alt= "html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img align = "center" alt= "html5" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     <img align = "center" alt= "html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align = "center" alt= "html5" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
+    <img align = "center" alt= "html5" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+    <img align = "center" alt= "html5" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img align = "center" alt= "html5" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align = "center" alt= "html5" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 </div></br>
 
 Sempre buscando evoluir e aprender novas tecnologias
