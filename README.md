@@ -1,25 +1,115 @@
 ## Olá, sou Otávio Albuquerque!
 ###  Estudante do 7° Semestre de Sistemas de Informação na PUCRS.
-* Experiência com linguagem de programação Java, Vue.js, Python, GO, TypeScript, TailwindCSS;</br>
-* Experiência com frameworks SpringBoot, Nuxt.js, React.js;</br>
-* Certificação da metodologia ágil SCRUM.
+Atuo como Desenvolvedor de Software, utilizando minhas experiências como desenvolvedor fullstack etambém como gestor de equipe. Tenho foco em construir soluções eficientes, escaláveis e de alto impacto para o negócio, aplicando boas práticas de engenharia de software, metodologias ágeis ecolaborando com times multidisciplinares.
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-albuquerque/)
-[![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otavioalb_/)
 
-### Tecnologias que já tive contato
+### Linguagens e Tecnologias
 <div styLe = "display: inline_block"><br/>
-    <img align = "center" alt= "html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> 
-    <img align = "center" alt= "html5" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> 
-    <img align = "center" alt= "html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
-    <img align = "center" alt= "html5" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> 
-    <img align = "center" alt= "html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> 
-    <br>
-    <img align = "center" alt= "html5" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> 
-    <img align = "center" alt= "html5" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"> 
-    <img align = "center" alt= "html5" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> 
-    <img align = "center" alt= "html5" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <img align = "center" alt= "html5" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> 
+    <img 
+        align="left" 
+        alt="Git" 
+        title="Git"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="Java" 
+        title="Java"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+    />
+    <img 
+        align="left" 
+        alt="Java" 
+        title="Java"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+    />
+    <img 
+        align="left" 
+        alt="Vue" 
+        title="Vue"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="Nuxt" 
+        title="Nuxt"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="Python" 
+        title="Python"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="React"
+        title="React" 
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="Next.js" 
+        title="Next.js"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="TypeScript"
+        title="TypeScript" 
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="JavaScript" 
+        title="JavaScript"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="HTML"
+        title="HTML" 
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="Tailwind" 
+        title="Tailwind"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    />
+    <img 
+        align="left" 
+        alt="CSS" 
+        title="CSS"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    />
 </div></br>
-
+</br></br>
 Sempre buscando evoluir e aprender novas tecnologias
