@@ -1,8 +1,8 @@
 ## Olá, sou Otávio Albuquerque!
 ###  Estudante do 7° Semestre de Sistemas de Informação na PUCRS.
-*Experiência com linguagem de programação Java, Vue.js, Python, GO, TypeScript, TailwindCSS;
-</br>*Experiência com frameworks SpringBoot, Nuxt.js, React.js;
-</br>*Certificação da metodologia ágil SCRUM.
+* Experiência com linguagem de programação Java, Vue.js, Python, GO, TypeScript, TailwindCSS;</br>
+* Experiência com frameworks SpringBoot, Nuxt.js, React.js;</br>
+* Certificação da metodologia ágil SCRUM.
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-albuquerque/)
 [![Instagram](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/otavioalb_/)
