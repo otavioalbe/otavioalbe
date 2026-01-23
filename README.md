@@ -1,5 +1,5 @@
 ## Olá, sou Otávio Albuquerque!
-###  Full Stack Developer.
+###  Full Stack Developer
 Atuo como Desenvolvedor de Software, utilizando minhas experiências como desenvolvedor fullstack e também como gestor de equipe. Tenho foco em construir soluções eficientes, escaláveis e de alto impacto para o negócio, aplicando boas práticas de engenharia de software, metodologias ágeis ecolaborando com times multidisciplinares.
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-albuquerque/)
