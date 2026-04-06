@@ -1,6 +1,6 @@
 ## Olá, sou Otávio Albuquerque!
 ###  Fullstack Developer
-Atuo como Desenvolvedor de Software, utilizando minhas experiências como desenvolvedor fullstack e também como gestor de equipe. Tenho foco em construir soluções eficientes, escaláveis e de alto impacto para o negócio, aplicando boas práticas de engenharia de software, metodologias ágeis ecolaborando com times multidisciplinares.
+Desenvolvedor fullstack com experiência em produção no Portal do TelessaúdeRS, plataforma de saúde pública de alcance nacional. Tenho sólida base em Programação Orientada a Objetos, estruturas de dados e algoritmos, aplicada tanto no front-end quanto no back-end. No front, trabalho com Vue.js, Nuxt.js (SSR), React e TypeScript. No back, com Java e Spring Boot (REST, JPA, Security) e Python com Django. Tenho familiaridade com arquitetura de microserviços, mensageria com Kafka, bancos relacionais (PostgreSQL) e NoSQL (MongoDB), além de práticas DevOps com Git, Jenkins e Docker. Interesse especial em aplicações com impacto real, especialmente nas áreas de saúde e IA.
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-albuquerque/)
 
